@@ -1,3 +1,2 @@
 # setup
-
-# bash and vim setup (colors, spaces, etc.)
+bash and vim setup (colors, spaces, etc.)
